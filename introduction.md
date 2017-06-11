@@ -32,7 +32,7 @@ Due to the nature of our wonderful and glorious community you may want to share 
 If your code sample contains many lines then it is best to create a Snippet. You can do so from the chat box by clicking the plus sign. Snippets become files and can be commented on by other users.
 
 ## Self promotion and shameless plugs
-To help prevent spam, and a wall of text in #general and other very active  channels, we have [#shameless_plug](https://pythondev.slack.com/messages/C3GFPUBGF) to talk about your product, showcase it, ask for advice, or to ask people to try it out. These posts should only be in this channel and hence are not desired in other channels. We want to keep this a friendly place and we thought a channel dedicated to showcasing your work would work best.
+To help prevent spam, and a wall of text in [#general](https://pythondev.slack.com/messages/C07EFBK3R) and other very active  channels, we have [#shameless_plug](https://pythondev.slack.com/messages/C3GFPUBGF) to talk about your product, showcase it, ask for advice, or to ask people to try it out. These posts should only be in this channel and hence are not desired in other channels. We want to keep this a friendly place and we thought a channel dedicated to showcasing your work would work best.
 
 ## Taco Bot :taco:
 When people in our community do good things we like to reward them with a :taco:! We are hoping that as B.F. Skinner used bird food with pigeons we can do the same with humans and tacos. This is positive reinforcement at its best (coders playing with psychology, what can go wrong?). 
