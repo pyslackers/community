@@ -28,7 +28,7 @@ Make sure to iterate over your code and don't be afraid to ask if you are stuck.
 ## Join the community :family:
 It might look scary at first, but where a project will help you grasp new packages and ideas, and where challenges will help you learnt o perfect your problem solving, the community is what will teach you the best practices and standards for your code.
 
-The easiest way is always to ask questions and request code reviews in #code-review. We will try to help as much as we can and offer advice on what you are doing and how to improve. If you can you should also feel free to contribute and answer questions yourself to help ground and confirm your own knowledge as well.
+The easiest way is always to ask questions and request code reviews in [#help](https://pythondev.slack.com/messages/C07EFMZ1N). We will try to help as much as we can and offer advice on what you are doing and how to improve. If you can you should also feel free to contribute and answer questions yourself to help ground and confirm your own knowledge as well.
 
 ## Open Source Projects
 This is part of joining the community, but also bridges the gap between the community and starting your own project (and to some extent, taking a challenge).
@@ -37,7 +37,7 @@ Joining an open source project can be one of the fastest ways to learn the best 
 
 Even more importantly, you will make a significant and lasting impact on the programming community which will help the community to develop as a whole. It will also look awesome on your CV/résumé.
 
-If you want to find a project to join, take a look at #community-projects where we run some of our own projects. You can even start your own and get some of us to join if we're interested.
+If you want to find a project to join, take a look at [#community_projects](https://pythondev.slack.com/messages/C2FMLUBEU) where we run some of our own projects. You can even start your own and get some of us to join if we're interested.
 
 Other places to look include github.com and bitbucket.org where most open source projects are written. In the end most packages used today are open source, so if you aren't sure, take the package you use the most and see if they have any open issues that need fixing. Even Python itself is open source (although it is written in C, not Python).
 
