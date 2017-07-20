@@ -1,0 +1,27 @@
+language: python
+
+python:
+  - "3.6"
+
+install:
+  - npm install -g write-good
+
+script:
+  - write-good *.md --so --thereIs --cliches
+
+before_deploy:
+  - pip install dothub
+
+deploy:
+  - provider: script
+    script: "yes | dothub repo --owner pyslackers --repository community push"
+    on:
+      repo: pyslackers/community
+      branch: master
+      python: '3.6'
+  - provider: script
+    script: "yes | dothub org --name pyslackers push"
+    on:
+      repo: pyslackers/community
+      branch: master
+      python: '3.6'
