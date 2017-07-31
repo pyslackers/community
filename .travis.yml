@@ -7,7 +7,7 @@ install:
   - npm install -g write-good
 
 script:
-  - write-good *.md --no-adverb
+  - write-good *.md --so --thereIs --cliches
 
 before_deploy:
   - pip install dothub
