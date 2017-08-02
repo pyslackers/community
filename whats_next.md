@@ -4,7 +4,7 @@ If you are here it means you have completed the first step in learning Python (i
 A common question here is "what next?". The good news is that there are a lot of resources out there to help advance your knowledge. Here is a list of possible routes you could take. You don't have to do all, but any one of them could help you improve your Python:
 
 ## Start a project :dart:
-Nothing helps to compound knowledge of a language more than using it. So why not get started right away?
+Nothing helps to compound knowledge of a language more than using it. Let's get started right away?
 
 Look at what you do at home or at work that is repetitive and see if you can try to automate it with Python. This could be almost anything you can think of, even if it is something small. [Here is a non Python-specific example of someone hacking their :coffee: coffee machine :coffee: to save a couple minutes a day]( https://www.youtube.com/watch?v=LCcO-6lb9zM). You can easily do the same with a Raspberry Pi and Python.
 
