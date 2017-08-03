@@ -8,6 +8,8 @@ members:
     role: admin
   seanson:
     role: admin
+  daredevil82:
+    role: admin
 options:
   billing_email: pythondev.slack@gmail.com
   company: null
