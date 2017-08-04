@@ -1,13 +1,3 @@
-collaborators:
-  mikefromit:
-    permission: admin
-  mrasband:
-    permission: admin
-  ovv:
-    permission: admin
-  seanson:
-    permission: admin
-hooks: {}
 labels:
   bug:
     color: ee0701

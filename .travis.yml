@@ -19,9 +19,4 @@ deploy:
       repo: pyslackers/community
       branch: master
       python: '3.6'
-  - provider: script
-    script: "yes | dothub org --name pyslackers push"
-    on:
-      repo: pyslackers/community
-      branch: master
-      python: '3.6'
+
