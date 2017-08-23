@@ -46,29 +46,9 @@ If someone has done something worthy of a taco all you have to do is mention the
 
 ## Community Driven Projects
 
-Here are a couple of projects we have going on!
-
-These community driven projects are hosted on [GitHub](https://github.com/pyslackers). These projects are headed up by members of our community and are intended to provide value to our slack team and help members grow in their technical abilities. Each project has people who are leads and other members that act at a mentorship level. It's kinda like Xavier's school of gifted children except without a Blackbird SR-71.
+These projects are maintained by members of our community and are intended to provide value to our slack team and help members grow in their technical abilities. Community driven projects are hosted on [GitHub](https://github.com/pyslackers). Each project has people who are leads and other members that act at a mentorship level. It's kinda like Xavier's school of gifted children except without a SR-71 Blackbird.
 
 Feel free to join the [#community_projects](https://pythondev.slack.com/messages/C2FMLUBEU) channel and see where you can contribute, all contributions are welcomed from any skill level.  Low hanging fruit with getting started includes testing, documentation, code, feature ideas, bug reports, and front end design. You do not need to be a grandmaster Python jedi in order to contribute to one of the projects. If you are we welcome that too :wink:.
-
-### SIR BOT A LOT 
-
-[pyslackers/sir-bot-a-lot](https://github.com/pyslackers/sir-bot-a-lot)
-
-A pluggable bot framework written using asyncio (a new feature in Python 3). There isn't another bot out there like this one.
-
-You can see what he can do with `@sir-bot-a-lot help`, a few tips:
-
-* `/admin <message>`: Send a message to the admin team, alerting us of any issues, or giving kudos, whatever you prefer.
-* `/gif <query>`: Search Giphy
-* `/pypi <query>`: Search PyPi for a package
-
-### SLACK COMMUNITY WEBSITE
-
-[pyslackers/website](https://github.com/pyslackers/website)
-
-The website for the community, written with Django. It's built to be an information radiator and community marketing tool. This also includes a learning platform via blog posts, tutorials, and videos.
 
 ## Supporting the community
 
