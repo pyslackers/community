@@ -18,9 +18,11 @@ You may have learnt the syntax, and on a project you may learn about many librar
 Most people never design a perfect algorithm on their first attempt, but you can get better at it. Challenge sites are designed to make you think about how you've designed your code and to try to improve upon it. The person with the most accurate and efficient code wins.
 
 Good sites to try include:  
-https://www.codewars.com/  
-https://www.hackerrank.com/  
-https://projecteuler.net/  
+
+* https://www.codewars.com/  
+* https://www.hackerrank.com/  
+* https://projecteuler.net/  
+
 Some of these may also incidentally help you to find a job.
 
 Make sure to iterate over your code and don't be afraid to ask if you are stuck. We will try to not tell you the answer outright, but we can point out flaws in your design.
@@ -54,9 +56,10 @@ Depending on what you want to do, you may want to consider the following:
 Be warned for web development: The JavaScript community changes very rapidly for front-end frameworks, but the backend is becoming more stable in terms of changes. As a result many frameworks learned one year will be mostly redundant the next (seriously). That said it is still important to learn them.
 
 This is one of the most common routes to go down in Python. You'll probably want to look into frameworks like Django and Flask for the backend side. But aside from that you'll need the following essential languages:  
-HTML  
-CSS  
-JavaScript  
+
+* HTML  
+* CSS  
+* JavaScript  
 
 The above are the absolute essentials for web development. If you want to do more modern web development you'll also want to learn the following:  
 SASS/LESS/SCSS (pre-compilers for CSS. This means they are very similar to CSS, but are more powerful, yet still compile to CSS).  
@@ -65,24 +68,28 @@ NodeJS - JavaScript for the server.
 A Front End Framework - Angular, React/Redux, Ember, Vue, etc.
 
 If you want to learn more niche (but still very much loved) web based languages, try one of the following:  
-Elm  
-TypeScript  
-CoffeeScript  
+
+* Elm  
+* TypeScript  
+* CoffeeScript  
 
 ### App Development
 Apps are extremely common nowadays and are definitely an area worth learning about. Luckily due to the monopoly Android and Apple share, there aren't many languages to learn.
 
 The choice is generally between these two languages:  
-Swift/Objective-C (iOS)  
-Kotlin/Java (Android)  
+
+* Swift/Objective-C (iOS)  
+* Kotlin/Java (Android)  
+
 These will help you learn a different way of programming in a system you are likely unfamiliar with as a developer. The only downside is writing a single app for both systems is itself a challenge.
 
 If you do want to try and write a cross-platform app look into one of the following:  
-JavaScript with Phonegap  
-C/C++  
-Golang  
-Python with Kivy  
-React Native  
+
+* JavaScript with Phonegap  
+* C/C++  
+* Golang  
+* Python with Kivy  
+* React Native  
 
 
 If you choose to work with either Golang or C/C++, particularly C, bare in mind these are lower level languages than Python and may take significantly longer to understand. However the benefits for doing are great.
@@ -93,16 +100,18 @@ Most languages are suited for the desktop environment, including Python. However
 Lower-level languages often hold multiple benefits including being compatible across most platforms, being able to access the machine without limits (this often makes them dangerous as well), being extremely fast and, particularly in the case of C, being able to write extensions to other languages such as Python.
 
 If you want to follow this route of development look into:
-Golang  
-C/C++  
-Rust  
+
+* Golang  
+* C/C++  
+* Rust  
 
 ## I'm new to this and the above seems too advanced (beginners)
 If you think you fit this section you have probably only just started learning Python. In which case it would be worth looking into some basic tutorials and books. The key we recommend is to learn Python 3.x and to start with the latest version. Many people still say Python 2 is still worth starting on, but the reality is that Python 2 is out dated and no longer used in new projects. Do not worry though, even if you start on Python 3, Python 2 is very similar and very easy to learn afterwards.
 
 Here is a list of ones we recommend:  
-https://automatetheboringstuff.com/   
-https://docs.python.org/3/tutorial/ (the official tutorial)  
-http://www.diveintopython3.net/
+
+* https://automatetheboringstuff.com/   
+* https://docs.python.org/3/tutorial/ (the official tutorial)  
+* http://www.diveintopython3.net/
 
 Good luck!
