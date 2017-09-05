@@ -26,7 +26,7 @@ Asking good questions can be hard, generally it's best to say what you are tryin
 
 ## Cross posting
 
-Please try to refrain from cross-posting in multiple channels. If you have asked your question in a channel and have waited a while you can move to a more [#general](https://pythondev.slack.com/messages/C07EFBK3R) channel. In order to cross-post, find your chat message and [share the message](https://get.slack.help/hc/en-us/articles/203274767-Share-messages-in-Slack) in the other channel.
+Please try to refrain from cross-posting in multiple channels. If you have asked your question in a channel and have waited a while you can move to a more [#random](https://pythondev.slack.com/messages/C07EFBK3R) channel. In order to cross-post, find your chat message and [share the message](https://get.slack.help/hc/en-us/articles/203274767-Share-messages-in-Slack) in the other channel.
 
 ## Code samples
 
@@ -36,7 +36,7 @@ If your code sample contains many lines, or is complicated code that can benefit
 
 ## Self promotion and shameless plugs
 
-To help prevent spam, and a wall of text in [#general](https://pythondev.slack.com/messages/C07EFBK3R) and other very active channels, we have [#shameless_plug](https://pythondev.slack.com/messages/C3GFPUBGF) to talk about your product, showcase it, ask for advice, or to ask people to try it out. These posts should only be in this channel and hence are not desired in other channels. We want to keep this a friendly place and we thought a channel dedicated to showcasing your work would work best.
+To help prevent spam, and a wall of text in [#random](https://pythondev.slack.com/messages/C07EFBK3R) and other very active channels, we have [#shameless_plug](https://pythondev.slack.com/messages/C3GFPUBGF) to talk about your product, showcase it, ask for advice, or to ask people to try it out. These posts should only be in this channel and hence are not desired in other channels. We want to keep this a friendly place and we thought a channel dedicated to showcasing your work would work best.
 
 ## Taco Bot :taco:
 
@@ -61,7 +61,7 @@ We are all here to build a community and serve each other. Here are some helpful
 
 ## Spam
 
-We welcome people sharing what they are working on and asking for feedback, however - we have an expectation that you contribute to the community before asking for anything in return. Since we are an open community with a lot of members, we get spam from time-to-time. Usually this is clear by someone fresh to the community posting a self-promoting link that either requires payment or is survey immediately in [#general](https://pythondev.slack.com/messages/C07EFBK3R).
+We welcome people sharing what they are working on and asking for feedback, however - we have an expectation that you contribute to the community before asking for anything in return. Since we are an open community with a lot of members, we get spam from time-to-time. Usually this is clear by someone fresh to the community posting a self-promoting link that either requires payment or is survey immediately in [#random](https://pythondev.slack.com/messages/C07EFBK3R).
 
 Moderators will delete these types of posts and gently ask you to spend some time introducing yourself and contributing to the community :) 
 
