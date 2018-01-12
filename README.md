@@ -4,7 +4,7 @@ Welcome to the pyslackers community!
 Here, you'll find a collection of community-specific resources such as rules,
 codes of conduct, locations of team services, etc.
 
-If you are a new pyslacker, then :taco:s to you. Now you can view
+If you are a new pyslacker, then :taco:s to you. Be sure to read
 [our introduction document](introduction.md) where you can learn all about
 [taco bot](introduction.md#taco-bot-taco) and view guidelines on how to introducing
 yourself to everyone, how to ask questions, and general etiquette in a virtual team
