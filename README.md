@@ -1,4 +1,14 @@
 # PySlackers Community
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [PySlackers Community](#pyslackers-community)
+- [About PySlackers](#about-pyslackers)
+- [Join](#join)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 Welcome to the PySlackers community!
 
 Here, you'll find a collection of community-specific resources such as rules,
@@ -45,3 +55,17 @@ are welcome to [join](https://pyslackers.com/slack/).
 
 If you have a GitHub account, remember to star this repository so you can
 have quick access to this documentation. If not, bookmark this page.
+
+# Creating the Table of Contents
+
+The table of contents for the markdown documents in this repository are created
+using `doctoc`. When changes are made to any documents the table of contents
+needs to be regenerated.
+
+Install the dependencies
+
+`npm install --dev`
+
+Run the npm script to generate the table of contents
+
+`npm run doctoc`

@@ -1,0 +1,22 @@
+{
+  "name": "community",
+  "version": "0.0.1",
+  "description": "A collection of community specific resources, such as rules, COC, and team services",
+  "main": "index.js",
+  "scripts": {
+    "doctoc": "node_modules/.bin/doctoc ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pyslackers/community.git"
+  },
+  "author": "pyslackers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pyslackers/community/issues"
+  },
+  "homepage": "https://github.com/pyslackers/community#readme",
+  "devDependencies": {
+    "doctoc": "^1.3.0"
+  }
+}
