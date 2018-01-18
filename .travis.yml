@@ -8,15 +8,3 @@ install:
 
 script:
   - write-good *.md --so --thereIs --cliches
-
-before_deploy:
-  - pip install dothub
-
-deploy:
-  - provider: script
-    script: "yes | dothub repo --owner pyslackers --repository community push"
-    on:
-      repo: pyslackers/community
-      branch: master
-      python: '3.6'
-
