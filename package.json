@@ -4,7 +4,7 @@
   "description": "A collection of community specific resources, such as rules, COC, and team services",
   "main": "index.js",
   "scripts": {
-    "doctoc": "node_modules/.bin/doctoc ."
+    "doctoc": "doctoc ."
   },
   "repository": {
     "type": "git",

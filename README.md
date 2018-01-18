@@ -4,9 +4,9 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [PySlackers Community](#pyslackers-community)
 - [About PySlackers](#about-pyslackers)
 - [Join](#join)
+- [Creating the Table of Contents](#creating-the-table-of-contents)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 Welcome to the PySlackers community!

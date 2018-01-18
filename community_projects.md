@@ -4,14 +4,13 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Community Driven Projects](#community-driven-projects)
-  - [Projects](#projects)
-    - [SIR BOT A LOT & PLUGINS](#sir-bot-a-lot--plugins)
-    - [SLACK COMMUNITY WEBSITE](#slack-community-website)
-    - [ANSIBLE & ROLES](#ansible--roles)
-    - [LEARNING RESSOURCES](#learning-ressources)
-    - [COMMUNITY](#community)
-  - [Get started](#get-started)
+- [Projects](#projects)
+  - [SIR BOT A LOT & PLUGINS](#sir-bot-a-lot--plugins)
+  - [SLACK COMMUNITY WEBSITE](#slack-community-website)
+  - [ANSIBLE & ROLES](#ansible--roles)
+  - [LEARNING RESSOURCES](#learning-ressources)
+  - [COMMUNITY](#community)
+- [Get started](#get-started)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 The community has some projects going on!
