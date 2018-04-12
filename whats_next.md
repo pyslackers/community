@@ -1,4 +1,21 @@
+
 # :tada: Congratulations! :tada:
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Start a project :dart:](#start-a-project-dart)
+- [Take a challenge :trophy:](#take-a-challenge-trophy)
+- [Join the community :family:](#join-the-community-family)
+- [Open Source Projects](#open-source-projects)
+- [Learn a different language (Advanced) :anguished:](#learn-a-different-language-advanced-anguished)
+  - [Web development](#web-development)
+  - [App Development](#app-development)
+  - [Systems/Desktop development](#systemsdesktop-development)
+- [I'm new to this and the above seems too advanced (beginners)](#im-new-to-this-and-the-above-seems-too-advanced-beginners)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 If you are here it means you have completed the first step in learning Python (if you are a beginner you can find some helpful links at the end of the document), namely learning the syntax and basic concepts of programming in Python. If you haven't, check the bottom for good places to get started.
 
 A common question here is "what next?". The good news is that there are a lot of resources out there to help advance your knowledge. Here is a list of possible routes you could take. You don't have to do all, but any one of them could help you improve your Python:

@@ -1,5 +1,24 @@
+
 # :tada: Welcome to the community! :tada:
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Channels](#channels)
+- [Asking Questions](#asking-questions)
+- [Cross posting](#cross-posting)
+- [Code samples](#code-samples)
+- [Self promotion and shameless plugs](#self-promotion-and-shameless-plugs)
+- [Taco Bot :taco:](#taco-bot-taco)
+- [Community Driven Projects](#community-driven-projects)
+- [Supporting the community](#supporting-the-community)
+- [Spam](#spam)
+- [Need an admin?](#need-an-admin)
+- [Zen of Python](#zen-of-python)
+- [Did we miss anything?](#did-we-miss-anything)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 We are glad that you have decided to join us.
 There a few things that we have documented here to help you along from the beginning because we are grand believers in the Don't Repeat Yourself (DRY) principle, and it just seems so professional!  
 

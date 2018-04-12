@@ -1,5 +1,18 @@
 # Community Driven Projects
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Projects](#projects)
+  - [SIR BOT A LOT & PLUGINS](#sir-bot-a-lot--plugins)
+  - [SLACK COMMUNITY WEBSITE](#slack-community-website)
+  - [ANSIBLE & ROLES](#ansible--roles)
+  - [LEARNING RESSOURCES](#learning-ressources)
+  - [COMMUNITY](#community)
+- [Get started](#get-started)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 The community has some projects going on!
 
 These community driven projects are hosted on [GitHub](https://github.com/pyslackers). These projects are headed up by members of our community and are intended to provide value to our slack team and help members grow in their technical abilities. Each project has people who are leads and other members that act at a mentorship level. It's kinda like Xavier's school of gifted children except without a Blackbird SR-71.
