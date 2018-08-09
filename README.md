@@ -36,7 +36,7 @@ for collaboration, regardless of background.
 # Join
 Anyone with an interest in Python has an open invitation to this community.
 Whether because of a school project, a task that you wish to automate at work,
-or because you are a Python developer or IT recruiters looking to network, you
+or because you are a Python developer or IT recruiter looking to network, you
 are welcome to [join](https://pyslackers.com/slack/).
 
 If you have a GitHub account, remember to star this repository so you can
