@@ -62,7 +62,7 @@ If you are proposing a feature:
 Get Started!
 ------------
 
-Ready to contribute? Here is a our preferred approach to forking our projects:
+Ready to contribute? Here is our preferred approach to forking our projects:
 
 1. Fork the target project's repo on github.
 2. Clone your fork locally and add the upstream repository:
