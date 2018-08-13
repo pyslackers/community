@@ -83,11 +83,7 @@ Ready to contribute? Here is a our preferred approach to forking our projects:
 
    Now you can make your changes locally.
 
-5. When you're done making changes, check that your changes pass flake8 and the tests, including testing other Python versions with tox:
-
-   .. code-block:: console
-
-        $ tox
+5. Refer to the target project's CONTRIBUTING file. It contains the steps required for testing.
 
 6. Commit your changes and push your branch to github:
 
