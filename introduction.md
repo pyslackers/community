@@ -7,14 +7,14 @@ Dont forget to Introduce Yourself in the [#introductions](https://pythondev.slac
 
 Example:
 
-> Hello, everyone! My name is Ocat and I'm a full stack engineer @TacoBot My personal tech passions are working with APIs and giving out :taco:s. 
-> I like to give back to the open source community when I can. PS. I love asyncio. 
+> Hello, everyone! My name is Ocat and I'm a full stack engineer @TacoBot My personal tech passions are working with APIs and giving out :taco:s.
+> I like to give back to the open source community when I can. PS. I love asyncio.
 
 ## Channels
 
 If you are new to Slack then you should be aware of the concept of channels. Channels are a good way to keep conversations under the :umbrella: of a specific topic or context. Channels appear on the upper left side bar of the Slack UI.
 
-Channel topics can be specific to the Python packages you :heart: like [#django](https://pythondev.slack.com/messages/C0LMFRMB5), [#flask](https://pythondev.slack.com/messages/C0LN2AD7T"), [#sqlalchemy](https://pythondev.slack.com/messages/C1PB8ME48), etc. We also have channels that are for learning like [#help](https://pythondev.slack.com/messages/C07EFMZ1N) and [#learning_python](https://pythondev.slack.com/messages/C07EW4DNE). 
+Channel topics can be specific to the Python packages you :heart: like [#django](https://pythondev.slack.com/messages/C0LMFRMB5), [#flask](https://pythondev.slack.com/messages/C0LN2AD7T"), [#sqlalchemy](https://pythondev.slack.com/messages/C1PB8ME48), etc. We also have channels that are for learning like [#help](https://pythondev.slack.com/messages/C07EFMZ1N) and [#learning_python](https://pythondev.slack.com/messages/C07EW4DNE).
 
 ## Asking Questions
 
@@ -26,7 +26,7 @@ Asking good questions can be hard, generally it's best to say what you are tryin
 
 ## Cross posting
 
-Please try to refrain from cross-posting in multiple channels. If you have asked your question in a channel and have waited a while you can move to a more [#general](https://pythondev.slack.com/messages/C07EFBK3R) channel. In order to cross-post, find your chat message and [share the message](https://get.slack.help/hc/en-us/articles/203274767-Share-messages-in-Slack) in the other channel.
+Please try to refrain from cross-posting in multiple channels. If you have asked your question in a channel and have waited a while you can move to a more [#random](https://pythondev.slack.com/messages/C07EFBK3R) channel. In order to cross-post, find your chat message and [share the message](https://get.slack.help/hc/en-us/articles/203274767-Share-messages-in-Slack) in the other channel.
 
 ## Code samples
 
@@ -36,13 +36,13 @@ If your code sample contains many lines, or is complicated code that can benefit
 
 ## Self promotion and shameless plugs
 
-To help prevent spam, and a wall of text in [#general](https://pythondev.slack.com/messages/C07EFBK3R) and other very active channels, we have [#shameless_plug](https://pythondev.slack.com/messages/C3GFPUBGF) to talk about your product, showcase it, ask for advice, or to ask people to try it out. These posts should only be in this channel and hence are not desired in other channels. We want to keep this a friendly place and we thought a channel dedicated to showcasing your work would work best.
+To help prevent spam, and a wall of text in [#random](https://pythondev.slack.com/messages/C07EFBK3R) and other very active channels, we have [#shameless_plug](https://pythondev.slack.com/messages/C3GFPUBGF) to talk about your product, showcase it, ask for advice, or to ask people to try it out. These posts should only be in this channel and hence are not desired in other channels. We want to keep this a friendly place and we thought a channel dedicated to showcasing your work would work best.
 
 ## Taco Bot :taco:
 
-When people in our community do good things we like to reward them with a :taco:! We are hoping that as B.F. Skinner used bird food with pigeons we can do the same with humans and tacos. This is positive reinforcement at its best (coders playing with psychology, what can go wrong?). 
+When people in our community do good things we like to reward them with a :taco:! We are hoping that as B.F. Skinner used bird food with pigeons we can do the same with humans and tacos. This is positive reinforcement at its best (coders playing with psychology, what can go wrong?).
 
-If someone has done something worthy of a taco all you have to do is mention them and follow it with the taco emoji. 
+If someone has done something worthy of a taco all you have to do is mention them and follow it with the taco emoji.
 
 ## Community Driven Projects
 
@@ -61,9 +61,9 @@ We are all here to build a community and serve each other. Here are some helpful
 
 ## Spam
 
-We welcome people sharing what they are working on and asking for feedback, however - we have an expectation that you contribute to the community before asking for anything in return. Since we are an open community with a lot of members, we get spam from time-to-time. Usually this is clear by someone fresh to the community posting a self-promoting link that either requires payment or is survey immediately in [#general](https://pythondev.slack.com/messages/C07EFBK3R).
+We welcome people sharing what they are working on and asking for feedback, however - we have an expectation that you contribute to the community before asking for anything in return. Since we are an open community with a lot of members, we get spam from time-to-time. Usually this is clear by someone fresh to the community posting a self-promoting link that either requires payment or is survey immediately in [#random](https://pythondev.slack.com/messages/C07EFBK3R).
 
-Moderators will delete these types of posts and gently ask you to spend some time introducing yourself and contributing to the community :) 
+Moderators will delete these types of posts and gently ask you to spend some time introducing yourself and contributing to the community :)
 
 ## Need an admin?
 
