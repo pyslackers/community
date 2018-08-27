@@ -70,8 +70,8 @@ Ready to contribute? Here is our preferred approach to forking our projects:
    .. code-block:: console
 
         $ git clone git@github.com:<your-username>/<project-name>.git <project-name>
-        $ git remote add upstream https://github.com/pyslackers/<project-name>.git
         $ cd <project-name>/
+        $ git remote add upstream https://github.com/pyslackers/<project-name>.git
 
 3. Refer to the target project's CONTRIBUTING file. It contains the steps required to set up and run its preferred dev environment.
 
@@ -90,7 +90,7 @@ Ready to contribute? Here is our preferred approach to forking our projects:
     .. code-block:: console
 
         $ git add .
-        $ git commit
+        $ git commit -m '<your commit message>'
         $ git push origin <name-of-your-bugfix-or-feature>
 
 7. Submit a pull request through the github website.
