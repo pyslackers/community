@@ -36,7 +36,7 @@ If your code sample contains many lines, or is complicated code that can benefit
 
 ## Self promotion and shameless plugs
 
-To help prevent spam, and a wall of text in [#random](https://pythondev.slack.com/messages/C07EFBK3R) and other very active channels, we have [#shameless_plug](https://pythondev.slack.com/messages/C3GFPUBGF) to talk about your product, showcase it, ask for advice, or to ask people to try it out. These posts should only be in this channel and hence are not desired in other channels. We want to keep this a friendly place and we thought a channel dedicated to showcasing your work would work best.
+To help prevent spam, and a wall of text in [#random](https://pythondev.slack.com/messages/C07EFBK3R) and other very active channels, we have [#show_and_tell](https://app.slack.com/client/T07EFKXHR/C3GFPUBGF) to talk about your product, showcase it, ask for advice, or to ask people to try it out. These posts should only be in this channel and hence are not desired in other channels. We want to keep this a friendly place and we thought a channel dedicated to showcasing your work would work best.
 
 ## Taco Bot :taco:
 
