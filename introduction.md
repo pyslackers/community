@@ -14,7 +14,7 @@ Example:
 
 If you are new to Slack then you should be aware of the concept of channels. Channels are a good way to keep conversations under the :umbrella: of a specific topic or context. Channels appear on the upper left side bar of the Slack UI.
 
-Channel topics can be specific to the Python packages you :heart: like [#django](https://pythondev.slack.com/messages/C0LMFRMB5), [#flask](https://pythondev.slack.com/messages/C0LN2AD7T"), [#sqlalchemy](https://pythondev.slack.com/messages/C1PB8ME48), etc. We also have channels that are for learning like [#help](https://pythondev.slack.com/messages/C07EFMZ1N) and [#learning_python](https://pythondev.slack.com/messages/C07EW4DNE).
+Channel topics can be specific to the Python packages you :heart: like [#django](https://pythondev.slack.com/messages/C0LMFRMB5), [#flask](https://pythondev.slack.com/messages/C0LN2AD7T"), [#sqlalchemy](https://pythondev.slack.com/messages/C1PB8ME48), etc. We also have channels that are for learning like [#help](https://pythondev.slack.com/messages/C07EFMZ1N) and [#education_and_learning_resources](https://pythondev.slack.com/archives/C4LLZ4W1M); and lastly, we have channels for talking about things other than Python, such as  [#random](https://pythondev.slack.com/archives/C07EFN21K) for general conversation, as well as channels such as [#etc_music](https://pythondev.slack.com/archives/C62HNJU2K), [#etc_movies_and_tv](https://pythondev.slack.com/archives/C699LH85A) and others. Please explore and join as many channels as interest you -- and if you have a suggestion for a new channel, feel free to start a discussion about it in our [#community](https://pythondev.slack.com/archives/CD60CDU7K) channel.
 
 ## Asking Questions
 
@@ -73,7 +73,7 @@ To display a list of available slash commands, start a message in a channel with
 
 Some useful slash commands:
 
-* /admin <message> :: see the "Need an admin" section below
+* /admin <message> :: see the "Need an admin?" section below
 * /report <message> :: send a report to the admin team about a specific user (please include the user's name)
 * /justask :: posts a message explaining that members don't need to ask if they can ask a question
 * /howtoask :: posts some helpful content on how to ask good quality question
