@@ -81,7 +81,7 @@ Some useful slash commands:
 
 ## Need an admin?
 
-We have a channel named [#admin_help](https://pythondev.slack.com/messages/C07G55QES) in which you can make requests to admins such as new channels, nofitying of spammers or abusive users, or anything else you might need an admin for. You are also welcome to ask for a private PM from an admin if you would like to discuss something privately. Admins cover a variety of time zones, don't hesitate to message us.  If you would rather not message in that channel and would prefer to simply DM an admin, use the sirbot command: `/admin <message>` and whoever is available will follow up with you privately.
+We have a channel named [#community](https://pythondev.slack.com/archives/CD60CDU7K) in which you can make requests to admins such as new channels, nofitying of spammers or abusive users, or anything else you might need an admin for. You are also welcome to ask for a private PM from an admin if you would like to discuss something privately. Admins cover a variety of time zones, don't hesitate to message us.  If you would rather not message in that channel and would prefer to simply DM an admin, use the sirbot command: `/admin <message>` and whoever is available will follow up with you privately.
 
 ## Zen of Python
 
