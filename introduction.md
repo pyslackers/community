@@ -65,6 +65,20 @@ We welcome people sharing what they are working on and asking for feedback, howe
 
 Moderators will delete these types of posts and gently ask you to spend some time introducing yourself and contributing to the community :)
 
+## Slash commands
+
+Slash commands start with a "/" character, and can be used to perform a variety of useful tasks while using Slack in general, and Pyslackers in particular.
+
+To display a list of available slash commands, start a message in a channel with the "/" character (note: the list of displayed commands may differ between desktop and mobile versions of Slack).
+
+Some useful slash commands:
+
+* /admin <message> :: see the "Need an admin" section below
+* /report <message> :: send a report to the admin team about a specific user (please include the user's name)
+* /justask :: posts a message explaining that members don't need to ask if they can ask a question
+* /howtoask :: posts some helpful content on how to ask good quality question
+* /shrug <message> :: a fun command that posts your message, followed by an ascii representation of a person shrugging (¯\_(ツ)_/¯)
+
 ## Need an admin?
 
 We have a channel named [#admin_help](https://pythondev.slack.com/messages/C07G55QES) in which you can make requests to admins such as new channels, nofitying of spammers or abusive users, or anything else you might need an admin for. You are also welcome to ask for a private PM from an admin if you would like to discuss something privately. Admins cover a variety of time zones, don't hesitate to message us.  If you would rather not message in that channel and would prefer to simply DM an admin, use the sirbot command: `/admin <message>` and whoever is available will follow up with you privately.
